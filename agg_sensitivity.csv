@@ -1,0 +1,9 @@
+workload,allocator,avg_fragmentation,failed_allocs
+inference_bursty_long,page_adaptive,0.32570000000000005,155
+inference_bursty_long,page_fixed,0.3267,113
+inference_bursty_mixed,page_adaptive,0.3589333333333333,0
+inference_bursty_mixed,page_fixed,0.36210000000000003,0
+inference_steady_mixed,page_adaptive,0.2889,0
+inference_steady_mixed,page_fixed,0.28950000000000004,0
+inference_steady_short,page_adaptive,0.5135,0
+inference_steady_short,page_fixed,0.5183,0
